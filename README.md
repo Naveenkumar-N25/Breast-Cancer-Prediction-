@@ -1,5 +1,5 @@
 # Breast-Cancer-Prediction-Using ML
-
+I have done this project in the internship program offered by Edunet  
 This project aims to predict whether a breast cancer tumor is malignant or benign based on various features. Using a machine learning approach, this model is trained on a breast cancer dataset and can provide accurate predictions for unseen data. The primary goal of this project is to provide a predictive tool that can assist medical professionals in diagnosing breast cancer early, ultimately helping to save lives.
 
  ## Table of Contents
